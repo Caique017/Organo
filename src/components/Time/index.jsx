@@ -13,7 +13,7 @@ function Time (props) {
                     nome={colaborador.nome}
                     cargo={colaborador.cargo}
                     imagem={colaborador.imagem}
-                />)}
+                />)} 
             </div>
         </section>
         : ''
